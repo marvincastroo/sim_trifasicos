@@ -1,6 +1,6 @@
 # sim_trifasicos
 
-A GUI application for calculating voltage and current values for three-phase, balanced and unbalanced circuits, for topologies such as the delta, star, and grounded star. 
+A tkinter GUI application for calculating voltage and current values for three-phase, balanced and unbalanced circuits, for topologies such as the delta, star, and grounded star. 
 
 Originally intended to use MATLAB, this version is written entirely in Python.
 
